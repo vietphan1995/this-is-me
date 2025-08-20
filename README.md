@@ -8,7 +8,7 @@
 
 This is Me is a software social platform that keeps social personal identity as a service. It can run on smart devices which supporting biography/biometric authenticate method.
 
-This is Me uses your reality identity asset to identify you with others in social like faceprint, fingerprint, ADN/DNA as biography; social/credential certificate; working/job certificate; name, address, phone number as local personal identification.
+This is Me uses your reality identity asset to identify you with others in social like faceprint, fingerprint, ADN/DNA as biography; social/credential certificate; working/job certificate; name, address, phone number as local personal identification; This is Me credential point in frequency update cases.
 
 This is Me helps generating attached link for other platforms to manage who interacts with you in active or passive ways as share link or QR-code technology.
 
