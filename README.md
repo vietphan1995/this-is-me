@@ -23,4 +23,4 @@ This is Me social can organize attendance, authorize you or organization in asse
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/this-is-me-24c5e832d6ee8001a0bdf6442d4ce154
+https://maianhcorporation.notion.site/this-is-me-24c5e832d6ee8001a0bdf6442d4ce154
